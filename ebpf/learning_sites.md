@@ -10,3 +10,4 @@
 - https://www.iovisor.org/technology/ebpf
 - https://github.com/iovisor/bcc
 - https://github.com/iovisor/bpftrace/blob/master/docs/reference_guide.md
+- https://www.slideshare.net/brendangregg/presentations # Brendan Gregg大神的slideshare
