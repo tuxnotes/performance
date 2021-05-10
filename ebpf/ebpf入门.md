@@ -114,3 +114,9 @@ eBPF 监控子系统采用容器化部署，支持通过 K8s 部署和管理，�
 **关于 eBPF“内核无关”特性的说明**
 
 
+## 入门介绍3
+
+eBPF概念和基本原理，链接：https://blog.fleeto.us/post/what-is-ebpf/
+此文章是翻译自[What is eBPF and How Does it Work?](https://gravitational.com/blog/what-is-ebpf/),作者：[Virag Mody](https://www.linkedin.com/in/virag-mody-650974a9)
+
+

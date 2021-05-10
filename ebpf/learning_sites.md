@@ -11,3 +11,5 @@
 - https://github.com/iovisor/bcc
 - https://github.com/iovisor/bpftrace/blob/master/docs/reference_guide.md
 - https://www.slideshare.net/brendangregg/presentations # Brendan Gregg大神的slideshare
+- https://oswalt.dev/2021/01/introduction-to-ebpf/
+- https://www.iovisor.org/technology/bcc
